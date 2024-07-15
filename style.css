@@ -1,0 +1,28 @@
+img {
+    height: 200px;
+    width: 200px;
+}
+
+#red {
+    color: red;
+}
+#blue {
+    color: blue;
+}
+#yellow {
+    color: yellow;
+}
+#orange {
+    color: orange;
+}
+#green {
+    color: green;
+}
+
+.color-title{
+    font-weight: normal;
+}
+
+* {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
